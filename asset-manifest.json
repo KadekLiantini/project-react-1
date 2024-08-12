@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/project-react-1/static/css/main.92450153.css",
-    "main.js": "/project-react-1/static/js/main.9622b941.js",
+    "main.css": "/project-react-1/static/css/main.24276ba3.css",
+    "main.js": "/project-react-1/static/js/main.a32a5513.js",
     "static/js/453.5c6b0ee0.chunk.js": "/project-react-1/static/js/453.5c6b0ee0.chunk.js",
     "static/media/jus_mangga.jpg": "/project-react-1/static/media/jus_mangga.1d94951a21aa13a495b2.jpg",
     "static/media/pasta_carbonara.jpg": "/project-react-1/static/media/pasta_carbonara.d430451b5031e9fbb661.jpg",
@@ -14,12 +14,12 @@
     "static/media/tumis_kangkung.jpg": "/project-react-1/static/media/tumis_kangkung.569612ab79a065bfd431.jpg",
     "static/media/title.svg": "/project-react-1/static/media/title.be72c860f1c3a57ce254fb010c911145.svg",
     "index.html": "/project-react-1/index.html",
-    "main.92450153.css.map": "/project-react-1/static/css/main.92450153.css.map",
-    "main.9622b941.js.map": "/project-react-1/static/js/main.9622b941.js.map",
+    "main.24276ba3.css.map": "/project-react-1/static/css/main.24276ba3.css.map",
+    "main.a32a5513.js.map": "/project-react-1/static/js/main.a32a5513.js.map",
     "453.5c6b0ee0.chunk.js.map": "/project-react-1/static/js/453.5c6b0ee0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92450153.css",
-    "static/js/main.9622b941.js"
+    "static/css/main.24276ba3.css",
+    "static/js/main.a32a5513.js"
   ]
 }
