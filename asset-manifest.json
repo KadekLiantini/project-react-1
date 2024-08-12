@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-react-1/static/css/main.92450153.css",
+    "main.js": "/project-react-1/static/js/main.9622b941.js",
+    "static/js/453.5c6b0ee0.chunk.js": "/project-react-1/static/js/453.5c6b0ee0.chunk.js",
+    "static/media/jus_mangga.jpg": "/project-react-1/static/media/jus_mangga.1d94951a21aa13a495b2.jpg",
+    "static/media/pasta_carbonara.jpg": "/project-react-1/static/media/pasta_carbonara.d430451b5031e9fbb661.jpg",
+    "static/media/sop_ayam.jpg": "/project-react-1/static/media/sop_ayam.4ef6ac4c1e019e9d148a.jpg",
+    "static/media/es_krim_vanila.jpg": "/project-react-1/static/media/es_krim_vanila.3c30f5f97db6a873ae1f.jpg",
+    "static/media/pizza_margarita.jpg": "/project-react-1/static/media/pizza_margarita.4ea17874632e38212241.jpg",
+    "static/media/jus_jeruk.jpg": "/project-react-1/static/media/jus_jeruk.6056a828727ad38fcc6c.jpg",
+    "static/media/nasi_goreng.jpg": "/project-react-1/static/media/nasi_goreng.70eddf2beb5094d498a7.jpg",
+    "static/media/es_cincau_hijau.jpg": "/project-react-1/static/media/es_cincau_hijau.e40ccf959aba4375b4e8.jpg",
+    "static/media/tumis_kangkung.jpg": "/project-react-1/static/media/tumis_kangkung.569612ab79a065bfd431.jpg",
+    "static/media/title.svg": "/project-react-1/static/media/title.be72c860f1c3a57ce254fb010c911145.svg",
+    "index.html": "/project-react-1/index.html",
+    "main.92450153.css.map": "/project-react-1/static/css/main.92450153.css.map",
+    "main.9622b941.js.map": "/project-react-1/static/js/main.9622b941.js.map",
+    "453.5c6b0ee0.chunk.js.map": "/project-react-1/static/js/453.5c6b0ee0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92450153.css",
+    "static/js/main.9622b941.js"
+  ]
+}
