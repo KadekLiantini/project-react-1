@@ -222,7 +222,7 @@ const recipes = [
       { total: '100 gram', nama_bahan: 'daun cincau hijau' },
       { total: '200 gram', nama_bahan: 'gula merah' },
       { total: '800 ml', nama_bahan: 'air' },
-      { total: '100 ml', nama_bahan: 'santank' },
+      { total: '100 ml', nama_bahan: 'santan' },
       { total: '100 gram', nama_bahan: 'es batu' },
     ],
     langkah: [

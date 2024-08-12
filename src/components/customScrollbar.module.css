@@ -1,0 +1,22 @@
+/* CustomScrollbar.module.css */
+
+/* #scrollContainer {
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: blue white;
+} */
+
+.scrollContainer::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scrollContainer::-webkit-scrollbar-track {
+  /* background: grey; */
+  border-radius: 50px;
+}
+
+.scrollContainer::-webkit-scrollbar-thumb {
+  background-color: grey;
+  border-radius: 50px;
+  border: 1px solid white;
+}

@@ -1,11 +1,11 @@
-import './App.css';
+import TabTest from './components/test';
 import RecipesData from './data/recipes';
 
 function App() {
   console.log(RecipesData);
   return (
     <div className='App'>
-      <p>Hello World</p>
+      <TabTest/>
     </div>
   );
 }
